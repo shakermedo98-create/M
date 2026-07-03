@@ -66,7 +66,7 @@ export default function Page() {
               sr
               src="/images/IMG_4708.png"
               alt="M &amp; L monogram"
-              className="mx-auto mt-12 h-40 w-auto opacity-70 mix-blend-multiply"
+              className="mx-auto mt-12 h-32 w-auto opacity-70 mix-blend-multiply"
             />
           </Reveal>
         </section>
