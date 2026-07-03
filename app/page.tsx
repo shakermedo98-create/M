@@ -48,7 +48,19 @@ export default function Page() {
           <Reveal delay={450} className="mt-10">
             <Countdown />
           </Reveal>
+<Reveal delay={550}>
 
+  <img
+
+    src="/images/1e20e63d-adaf-4993-bfbe-e409939"
+
+    alt="Łucja & Mohamed"
+
+    className="mx-auto mt-10 w-80 rounded-3xl shadow-2xl"
+
+  />
+
+</Reveal>
           <Reveal delay={200}>
             <img
               src="/images/monogram.jpeg"
