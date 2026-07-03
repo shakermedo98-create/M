@@ -63,7 +63,8 @@ export default function Page() {
 </Reveal>
           <Reveal delay={200}>
             <img
-              src="/images/monogram.jpeg"
+              sr
+              src="/images/IMG_4708.png"
               alt="M &amp; L monogram"
               className="mx-auto mt-12 h-24 w-auto opacity-70 mix-blend-multiply"
             />
