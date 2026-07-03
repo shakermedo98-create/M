@@ -16,8 +16,8 @@ const pinyon = Pinyon_Script({
 })
 
 export const metadata: Metadata = {
-  title: 'M & L — Save the Date',
-  description: 'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
+  title: 'Łucja & Mohamed',
+  description: 'Our Forever Begins • 04 August 2026',
   generator: 'v0.app',
   icons: {
     icon: [
