@@ -52,7 +52,7 @@ export default function Page() {
 
   <img
 
-    src="/images/1e20e63d-adaf-4993-bfbe-e409939"
+    src="/images/1e20e63d-adaf-4993-bfbe-e4099398b5d3.jpeg"
 
     alt="Łucja & Mohamed"
 
