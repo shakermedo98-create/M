@@ -63,17 +63,19 @@ export function EnvelopeIntro() {
         {/* Soft overlay so the prompt stays readable */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/25 via-transparent to-black/10" />
 
-        <div className="relative top-10 z-10 flex flex-col items-center">
-          <p className="font-script text-4xl text-background drop-shadow-[0_2px_8px_rgba(0,0,0,0.4)] sm:text-5xl">
-            You&apos;re Invited
-          </p>
-          <span className="mt-15 inline-flex items-center gap-2 rounded-full border border-background/70 bg-background/20 px-7 py-3 text-xs uppercase tracking-[0.35em] text-background backdrop-blur-sm transition-colors group-hover:bg-background group-hover:text-ink">
-            Tap to open
-          </span>
-          <p className="mt-90 text-center text-sm uppercase tracking-[0.4em] text-background/90 drop-shadow-[0_2px_6px_rgba(0,0,0,0.4)]">
-            Ł &amp; M
-          </p>
-        </div>
+        <div className="relative z-10 h-full w-full">
+  <p className="absolute left-1/2 top-[22%] -translate-x-1/2 font-script text-4xl text-background drop-shadow-[0_2px_8px_rgba(0,0,0,0.4)] sm:text-5xl">
+    You&apos;re Invited
+  </p>
+
+  <span className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 inline-flex items-center gap-2 rounded-full border border-background/70 bg-background/20 px-7 py-3 text-xs uppercase tracking-[0.35em] text-background backdrop-blur-sm transition-colors group-hover:bg-background group-hover:text-ink">
+    Tap to open
+  </span>
+
+  <p className="absolute bottom-[12%] left-1/2 -translate-x-1/2 text-center text-sm uppercase tracking-[0.4em] text-background/90 drop-shadow-[0_2px_6px_rgba(0,0,0,0.4)]">
+    Ł &amp; M
+  </p>
+</div>
       </button>
 
       {/* Music toggle, available after opening */}
