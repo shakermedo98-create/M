@@ -63,7 +63,7 @@ export function EnvelopeIntro() {
         {/* Soft overlay so the prompt stays readable */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/25 via-transparent to-black/10" />
 
-        <div className="relative z-10 flex flex-col items-center">
+        <div className="relative top-10 z-10 flex flex-col items-center">
           <p className="font-script text-4xl text-background drop-shadow-[0_2px_8px_rgba(0,0,0,0.4)] sm:text-5xl">
             You&apos;re Invited
           </p>
