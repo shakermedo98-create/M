@@ -64,7 +64,7 @@ export function EnvelopeIntro() {
         <div className="absolute inset-0 bg-gradient-to-t from-black/25 via-transparent to-black/10" />
 
         <div className="relative z-10 h-full w-full">
-  <p className="absolute left-1/2 top-[15%] -translate-x-1/2 font-script text-4xl text-background drop-shadow-[0_2px_8px_rgba(0,0,0,0.4)] sm:text-5xl">
+  <p className="absolute left-1/2 top-[13%] -translate-x-1/2 font-script text-4xl text-background drop-shadow-[0_2px_8px_rgba(0,0,0,0.4)] sm:text-5xl">
     You&apos;re Invited
   </p>
 
