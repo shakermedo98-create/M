@@ -71,7 +71,7 @@ export function EnvelopeIntro() {
             Tap to open
           </span>
           <p className="mt-10 text-center text-sm uppercase tracking-[0.4em] text-background/90 drop-shadow-[0_2px_6px_rgba(0,0,0,0.4)]">
-            M &amp; L
+            Ł &amp; M
           </p>
         </div>
       </button>
