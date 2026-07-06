@@ -70,7 +70,7 @@ export function EnvelopeIntro() {
           <span className="mt-8 inline-flex items-center gap-2 rounded-full border border-background/70 bg-background/20 px-7 py-3 text-xs uppercase tracking-[0.35em] text-background backdrop-blur-sm transition-colors group-hover:bg-background group-hover:text-ink">
             Tap to open
           </span>
-          <p className="mt-45 text-center text-sm uppercase tracking-[0.4em] text-background/90 drop-shadow-[0_2px_6px_rgba(0,0,0,0.4)]">
+          <p className="mt-55 text-center text-sm uppercase tracking-[0.4em] text-background/90 drop-shadow-[0_2px_6px_rgba(0,0,0,0.4)]">
             Ł &amp; M
           </p>
         </div>
