@@ -90,7 +90,7 @@ export default function Page() {
         <section id="message" className="scroll-mt-6 px-6 pb-16 pt-4 text-center">
           <Reveal>
             <p className="mx-auto max-w-sm text-base leading-relaxed text-muted-foreground">
-              We would love to hear from you. Write us a little note below.
+              We would love to hear from you. Write us a little note below, especially if you can’t be with us that day.
             </p>
           </Reveal>
           <Reveal delay={150} className="mt-10">
