@@ -75,7 +75,11 @@ export default function Page() {
         <section className="relative">
           <img
             src="/images/dear-guests.jpeg"
-            alt="Dear guests — something wonderful is about to happen. Leave a message for us."
+            alt="Dear guests — Something wonderful is about to happen in our lives.
+
+We are so happy to share this special day with the people who matter most to us—our beloved family and dearest friends.
+
+Please join us as we celebrate the beginning of our forever.
             className="block w-full"
           />
           {/* Clickable GET STARTED region scrolls to the message form */}
