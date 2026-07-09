@@ -30,7 +30,7 @@ twitter: {
   title: 'Ł & M — Save the Date',
   description:
     'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
-  images: ['/images/save-the-date.jpeg'],
+  images: ['/images/envelope.jpeg'],
 },
   icons: {
     icon: [
