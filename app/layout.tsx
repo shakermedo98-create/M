@@ -18,7 +18,20 @@ const pinyon = Pinyon_Script({
 export const metadata: Metadata = {
   title: 'Ł & M — Save the Date',
   description: 'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
-  generator: 'v0.app',
+  genopenGraph: {
+  title: 'Ł & M — Save the Date',
+  description:
+    'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
+  images: ['/images/save-the-date.jpeg'],
+},
+
+twitter: {
+  card: 'summary_large_image',
+  title: 'Ł & M — Save the Date',
+  description:
+    'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
+  images: ['/images/save-the-date.jpeg'],
+},
   icons: {
     icon: [
       {
