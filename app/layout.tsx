@@ -16,39 +16,26 @@ const pinyon = Pinyon_Script({
 })
 
 export const metadata: Metadata = {
- metadataBase: new URL('https://m-mohameddd.vercel.app'),
+  metadataBase: new URL('https://m-mohameddd.vercel.app'),
   title: 'Ł & M — Save the Date',
   description: 'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
   openGraph: {
-  title: 'Ł & M — Save the Date',
-  description:
-    'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
-  images: ['/images/envelope.jpeg'],
-},
+    title: 'Ł & M — Save the Date',
+    description:
+      'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
+    images: ['/placeholder.jpg'],
+  },
 
-twitter: {
-  card: 'summary_large_image',
-  title: 'Ł & M — Save the Date',
-  description:
-    'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
-  images: ['/images/envelope.jpeg'],
-},
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Ł & M — Save the Date',
+    description:
+      'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
+    images: ['/placeholder.jpg'],
+  },
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/placeholder.jpg',
+    apple: '/placeholder.jpg',
   },
 }
 
