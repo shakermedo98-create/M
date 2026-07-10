@@ -16,6 +16,7 @@ const pinyon = Pinyon_Script({
 })
 
 export const metadata: Metadata = {
+ metadataBase: new URL('https://m-mohameddd.vercel.app'),
   title: 'Ł & M — Save the Date',
   description: 'Moon Love, Maadi · Tuesday, 4 August 2026 · You are invited to celebrate the beginning of our forever.',
   openGraph: {
