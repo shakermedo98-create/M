@@ -48,22 +48,15 @@ export default function Page() {
           <Reveal delay={450} className="mt-10">
             <Countdown />
           </Reveal>
-<Reveal delay={550}>
-
-  <img
-
-    src="/images/1e20e63d-adaf-4993-bfbe-e4099398b5d3.jpeg"
-
-    alt="Łucja & Mohamed"
-
-    className="mx-auto mt-10 w-80 rounded-3xl shadow-2xl"
-
-  />
-
-</Reveal>
+          <Reveal delay={550}>
+            <img
+              src="/images/1e20e63d-adaf-4993-bfbe-e4099398b5d3.jpeg"
+              alt="Łucja & Mohamed"
+              className="mx-auto mt-10 w-80 rounded-3xl shadow-2xl"
+            />
+          </Reveal>
           <Reveal delay={200}>
             <img
-              sr
               src="/images/IMG_4708.png"
               alt="M &amp; L monogram"
               className="mx-auto mt-12 h-32 w-auto opacity-70 mix-blend-multiply"
@@ -75,7 +68,7 @@ export default function Page() {
         <section className="relative">
           <img
             src="/images/dear-guests.jpeg"
-            alt="Dear guests — Something wonderful is about to happen in our lives.We are so happy to share this special day with the people who matter most to us—our beloved family and dearest friends.Please join us as we celebrate the beginning of our forever.
+            alt="Dear guests — Something wonderful is about to happen in our lives. We are so happy to share this special day with the people who matter most to us—our beloved family and dearest friends. Please join us as we celebrate the beginning of our forever."
             className="block w-full"
           />
           {/* Clickable GET STARTED region scrolls to the message form */}
