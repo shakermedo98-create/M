@@ -34,8 +34,8 @@ export const metadata: Metadata = {
     images: ['/images/envelope.jpeg'],
   },
   icons: {
-    icon: '/images/envelope.jpeg',
-    apple: '/images/envelope.jpeg',
+    icon: '/apple-icon.png.jpg',
+    apple: '/apple-icon.png.jpg',
   },
 }
 
